@@ -1,51 +1,39 @@
-## 👋 Hey, I'm Tenclea :)
+## 👋 Hi, I'm  0x454d505459, you can call me EMPTY if prefered ;)
 
-<!-- [![GitHub Website](https://img.shields.io/website?down_color=FC0000&down_message=Offline (for now)&label=tenclea.github.io&style=for-the-badge&up_color=24FF00&up_message=Online&url=https%3A%2F%2Ftenclea.github.io)](https://tenclea.github.io) -->
-[![GitHub Follow](https://img.shields.io/github/followers/Tenclea?color=7B16FF&label=GitHub%20Followers&logo=github&logoColor=7B16FF)](https://github.com/Tenclea?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=tenclea)](https://github.com/tenclea)
-[![GitHub stars](https://img.shields.io/github/stars/tenclea)](https://github.com/tenclea)
-<!-- [![Telegram Channel](https://img.shields.io/badge/Tenclea%20Channel-Join-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Tenclea_Channel) -->
+## ℹ️ I'm a French Teenager
 
-## ℹ️ I'm 17 and from France
+- 💻 I love computers, especially the software part
+- ⌨️ I like programing and automation
+- 👀 Looking forward to meet more people
+- 💽 GNU/Linux Distros **>** windows (Just my own opinion)
+- I also like free and open source software (FOSS) even tho I use some non-free stuff because I like them too
 
-- ⌨️ I like to learn new things, especially when it comes to computers
-- 🔄 I'm looking forward to learn many more languages, and make usefull things with them
-- 🎯 2021 Goals: contribute more to Open Source projects
 
-<!-- ### Spotify Playing 🎧 -->
+### 🌐 Contacting me:
 
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+[Discord](https://discord.com/users/382960284135849984)
 
-### 🌐 My Social Links:
-
-[<img align="left" alt="GitHub Web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][GitWeb]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/protonmail.svg" />][Email]
+Element: @0x454d505459:matrix.org
 
 <br />
 
 ### 💻 Tools & Languages:
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />][GitHub]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCode]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJS]
+[<img align="left" alt="CodeOSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-70px-Visual_Studio_Code_1.35_icon.svg.png" />][CodeOSS]
+[<img align="left" alt="Nim" width="26px" src="https://forum.nim-lang.org/images/logo.png" />][Nim]
+[<img align="left" alt="Python" width="26px" src="https://i.postimg.cc/sxR9vZVV/python.png" />][Py]
 
 <br />
 <br />
 
 ---
 
-### 🏆 GitHub Statistics
+### 🏆 Stats for nerds
 
-<img align="left" alt="Tenclea GitHub Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=Tenclea&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=0x454d505459&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
 
-[GitWeb]: https://tenclea.github.io
-[Discord]: https://discord.com/users/352520278103949312
-[Telegram]: https://t.me/Tenclea
-[Email]: mailto://tenclea@protonmail.com
 [GitHub]: https://github.com
-[VSCode]: https://code.visualstudio.com
-[JS]: https://www.javascript.com
-[NodeJS]: https://nodejs.org
+[CodeOSS]: https://github.com/microsoft/vscode
+[Nim]: https://nim-lang.org
+[Py]: https://www.python.org/
