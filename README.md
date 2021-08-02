@@ -33,6 +33,9 @@ Element: @0x454d505459:matrix.org
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats-sakujes.vercel.app/api?username=0x454d505459&show_icons=true&hide_title=false&title_color=FFFFFFa&text_color=FFFFFF&bg_color=110,000000,000000&icon_color=28ce60&include_all_commits=true&hide_border=true" />
 
+
+This was forked from Tenclea/tenclea because Im too lazy to do that myself
+
 [GitHub]: https://github.com
 [CodeOSS]: https://github.com/microsoft/vscode
 [Nim]: https://nim-lang.org
