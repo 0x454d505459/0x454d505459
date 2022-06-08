@@ -21,6 +21,7 @@ Element: @0x454d505459:matrix.org
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />][GitHub]
 [<img align="left" alt="CodeOSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-70px-Visual_Studio_Code_1.35_icon.svg.png" />][CodeOSS]
+[<img align="left" alt="Helix Editor" width="26px" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" />][hx]
 [<img align="left" alt="Nim" width="26px" src="https://forum.nim-lang.org/images/logo.png" />][Nim]
 [<img align="left" alt="Python" width="26px" src="https://i.postimg.cc/sxR9vZVV/python.png" />][Py]
 
@@ -37,5 +38,6 @@ Element: @0x454d505459:matrix.org
 [GitHub]: https://github.com
 [CodeOSS]: https://github.com/microsoft/vscode
 [Nim]: https://nim-lang.org
+[hx]: https://github.com/helix-editor/helix
 [Py]: https://www.python.org/
 
