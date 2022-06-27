@@ -13,7 +13,7 @@
 
 [Discord](https://discord.com/users/382960284135849984)
 
-Element: @0x454d505459:matrix.org
+[Revolt](https://revolt.chat): 0x454d505459 : 01FFQM2SGX6JZY3KYR6CFT6YNY (id)
 
 <br />
 
