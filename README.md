@@ -11,7 +11,7 @@
 
 ### 🌐 Contacting me:
 
-[Discord](https://discord.com/users/382960284135849984)
+[![Discord Presence](https://lanyard.cnrad.dev/api/382960284135849984?borderRadius=10px&idleMessage=Containerized%20inside%20schoole%20image)](https://discord.com/users/382960284135849984)
 
 [Revolt](https://revolt.chat): 0x454d505459 : 01FFQM2SGX6JZY3KYR6CFT6YNY (id)
 
