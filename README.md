@@ -15,6 +15,8 @@
 
 [Revolt](https://revolt.chat): 0x454d505459 : 01FFQM2SGX6JZY3KYR6CFT6YNY (id)
 
+<a rel="me" href="https://mastodon.world/@0x454d505459">Mastodon</a>
+
 <br />
 
 ### 💻 Tools & Languages:
@@ -40,4 +42,3 @@
 [Nim]: https://nim-lang.org
 [hx]: https://github.com/helix-editor/helix
 [Py]: https://www.python.org/
-
