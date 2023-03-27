@@ -10,10 +10,7 @@
 
 
 ### 🌐 Contacting me:
-
-[Revolt](https://revolt.chat): 0x454d505459 : 01FFQM2SGX6JZY3KYR6CFT6YNY (id)
-
-<a rel="me" href="https://mastodon.world/@0x454d505459">Mastodon</a>
+<a href="https://mastodon.world/@0x454d505459">Mastodon</a> (Im not active)
 
 <br />
 
