@@ -14,6 +14,10 @@
 
 <br />
 
+---
+![Revolt Card](https://revard.meppu.boo/card/01FFQM2SGX6JZY3KYR6CFT6YNY)
+---
+
 ### 💻 Tools & Languages:
 
 [<img align="left" alt="GitHub" width="26px" src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/github-512.png" />][GitHub]
