@@ -1,22 +1,19 @@
-## 👋 Hi, I'm  0x454d505459, you can call me EMPTY if prefered ;)
+## 👋 Hi, I'm  0x4c756e61, you can call me Luna ;)
 
 ### ℹ️ I'm a French Teenager
 
 - 💻 I love computers, especially the software part
 - ⌨️ I like programing and automation
 - 👀 Looking forward to meet more people
-- 💽 GNU/Linux Distros **>** windows (Just my own opinion)
-- I also like free and open source software (FOSS) even tho I use some non-free stuff because I like them too
+- 💽 GNU/Linux Distros **>** MS Windows (Just my own opinion)
+- I also like free and open source software (FOSS), some times proprietary ones are good too
 
 
 ### 🌐 Contacting me:
-<a href="https://mastodon.world/@0x454d505459">Mastodon</a> (Im not active)
-
+<a href="https://kitsunes.club/@0x454d505459">SharKey</a> (Im not active)
+<br>
+<a href="https://discord.com/users/382960284135849984">Discord</a>
 <br />
-
----
-![Revolt Card](https://revard.meppu.boo/card/01FFQM2SGX6JZY3KYR6CFT6YNY)
----
 
 ### 💻 Tools & Languages:
 
@@ -25,6 +22,7 @@
 [<img align="left" alt="Helix Editor" width="26px" src="https://avatars.githubusercontent.com/u/66235900?s=200&v=4" />][hx]
 [<img align="left" alt="Nim" width="26px" src="https://forum.nim-lang.org/images/logo.png" />][Nim]
 [<img align="left" alt="Python" width="26px" src="https://i.postimg.cc/sxR9vZVV/python.png" />][Py]
+[<img align="left" alt="Zig" width="90px" src="https://ziglang.org/zig-logo-light.svg" />][Zig]
 
 <br />
 <br />
@@ -41,3 +39,4 @@
 [Nim]: https://nim-lang.org
 [hx]: https://github.com/helix-editor/helix
 [Py]: https://www.python.org/
+[Zig]: https://ziglang.org/
