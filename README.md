@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm  0x4c756e61, you can call me Luna ;)
 
-### ℹ️ I'm a French Teenager
+### ℹ️ I'm a French Student
 
 - 💻 I love computers, especially the software part
 - ⌨️ I like programing and automation
