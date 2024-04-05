@@ -14,6 +14,8 @@
 <br>
 <a href="https://discord.com/users/382960284135849984">Discord</a>
 <br />
+Signal: luna.42
+<br />
 
 ### 💻 Tools & Languages:
 
